@@ -1,0 +1,19 @@
+-- Description --
+This application is a test of the LinkedIn-J wrapper library.
+I'm posting it here, as they do not seem to provide a working Android test application.
+(BTW, It is not build for efficiency, it just works.)
+
+-- Notes --
+You will need an API key/Secret for your application, which you can obtain by following the link at the end of this document.
+In my code, it is stored in a class called "ConstDoNotCheckin.java" which, unsurprisingly, will not be checked in with the rest of the project, so you will need to fix your references (or use the same method to store the keys).   
+
+-- Acknowledgements --
+The OAuth login code has been adapted from Selvin's reply to this Stack Overflow question (http://stackoverflow.com/questions/5804257/posting-linkedin-message-from-android-application) 
+
+-- Licence --
+Licensed under the Apache Licence 2.0: http://www.apache.org/licenses/LICENSE-2.0.txt
+
+-- Links --
+	* LinkedIn-J         : http://code.google.com/p/linkedin-j/
+	* LinkedIn Dev Portal: https://www.linkedin.com/secure/developer
+	* Github             : https://github.com/alt236/LinkedIn-J-Test-Application---Android
