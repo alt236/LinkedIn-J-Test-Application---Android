@@ -8,7 +8,7 @@ You will need an API key/Secret for your application, which you can obtain by fo
 In my code, it is stored in a class called "ConstDoNotCheckin.java" which, unsurprisingly, will not be checked in with the rest of the project, so you will need to fix your references (or use the same method to store the keys).   
 
 -- Acknowledgements --
-The OAuth login code has been adapted from Selvin's reply to this Stack Overflow question (http://stackoverflow.com/questions/5804257/posting-linkedin-message-from-android-application) 
+The code has been adapted from Selvin's reply to this Stack Overflow question (http://stackoverflow.com/questions/5804257/posting-linkedin-message-from-android-application) 
 
 -- Licence --
 Licensed under the Apache Licence 2.0: http://www.apache.org/licenses/LICENSE-2.0.txt
